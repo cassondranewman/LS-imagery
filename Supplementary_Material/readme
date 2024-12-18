@@ -1,0 +1,5 @@
+Supplemental Script 1. Python jupyter notebook for calculating leaf spot lesion count and area. This script reads in joint photographic expert group image (.jpg) files from a folder. Then lesion area and average lesion count per leaf is written out to an excel file.
+
+Supplemental Script 2. Python jupyter notebook for calculating vegetative indices on a per-plot basis. The script reads in a flat file of mean band values per plot. It uses standard formulas to calculate vegetative indices and write out a new flat file.
+
+The raw_data.tsv file can be used as an example input to Supplemental Script 2.
